@@ -1,0 +1,18 @@
+.btn {
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+.btn {
+  padding: 6px 12px;
+  background: #30c39e;
+}
+
+.btn:hover {
+  background: #2baf8d;
+}
+
+.btn:active {
+  background: #269a7d;
+}
+/*# sourceMappingURL=Vue first week-2.css.map */
